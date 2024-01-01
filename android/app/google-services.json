@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676103987630",
+    "project_id": "weon-push-notification",
+    "storage_bucket": "weon-push-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676103987630:android:7833c4a0380cf2eaf7683f",
+        "android_client_info": {
+          "package_name": "com.weonandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBkW6UArKBX_DOn7upSxgU5bi1zf5NTtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
